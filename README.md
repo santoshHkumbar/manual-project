@@ -72,10 +72,8 @@ email :-santoshkumbar057@gmail.com
 password:-Santosh@1234
 
 
-## Technology Stack
+##  Operating System and browsers used
 List and provide a brief overview of the technologies used in the project.
 
-- Node.js
-- xmind 
-- excel/msworld
-- cypress/vscode
+![image](https://github.com/santoshHkumbar/manual-project/assets/172264565/1d3409e6-4c6e-4afb-a8f9-c8e64a889778)
+
