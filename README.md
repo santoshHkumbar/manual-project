@@ -1,6 +1,6 @@
 ![image](https://github.com/santoshHkumbar/manual-project/assets/172264565/916e58ea-f278-47b9-8f51-173e560df6b9)
 
-# bigbasket-clone
+# Bigbasket-clone
 
 ## Introduction
 he BigBasket Application is designed to provide an intuitive and seamless online grocery shopping experience. 
