@@ -15,7 +15,7 @@ Logout Functionality
 what problems it solves.
 this project automatic the cypress tool ,work on manaual testing parts
 
-##Tech Stack used in this Project
+## Tech Stack used in this Project
 
 
 ![image](https://github.com/santoshHkumbar/manual-project/assets/172264565/3cec95c8-e8a8-4a3b-aee4-49b5cb864a21)
