@@ -14,8 +14,11 @@ Logout Functionality
 ) 
 what problems it solves.
 this project automatic the cypress tool ,work on manaual testing parts
+
 ##Tech Stack used in this Project
-https://camo.githubusercontent.com/38a948b2218867f34dfad9bd4fdbbc30632375f7ef75ab3571c4c6deb19806dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465267374796c653d666c6174
+![image](https://github.com/santoshHkumbar/manual-project/assets/172264565/3cec95c8-e8a8-4a3b-aee4-49b5cb864a21)
+
+
 ## Project Type
 Frontend link website: https://66405eedbcb7ce8c1a800ea6--timely-froyo-5c39a1.netlify.app/
 
