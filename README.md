@@ -28,8 +28,9 @@ Frontend link website: https://66405eedbcb7ce8c1a800ea6--timely-froyo-5c39a1.net
 
 
 ## Deplolyed App
-Frontend:  BigBasket Frontend
-manual:testing applaiction
+
+
+Manual AND Automation :application testing
 
 ## Directory Structure
 manual project/
