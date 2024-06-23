@@ -89,3 +89,6 @@ List and provide a brief overview of the technologies used in the project.
 
 ![image](https://github.com/santoshHkumbar/manual-project/assets/172264565/1d3409e6-4c6e-4afb-a8f9-c8e64a889778)
 
+## Feedback
+If you have any feedback, please reach out to me at Santoshkumbar081@gmail.com
+
