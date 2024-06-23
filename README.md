@@ -22,7 +22,7 @@ this project automatic the cypress tool ,work on manaual testing parts
 
 ![image](https://github.com/santoshHkumbar/manual-project/assets/172264565/3cec95c8-e8a8-4a3b-aee4-49b5cb864a21)
 
-![image](https://github.com/santoshHkumbar/manual-project/assets/172264565/af1c7d5c-3996-4f66-bada-b9844528079d)
+
 
 
 
