@@ -33,9 +33,7 @@ Frontend link website: https://66405eedbcb7ce8c1a800ea6--timely-froyo-5c39a1.net
 Manual AND Automation :application testing
 
 ## Directory Structure
-manual project/
-├─ manual work documents
-├─ bigbusket.js /
+Cypress-Cypress-Intergation/ ├─ testing/ ├─ bigbusket-project
 
 ## Video Walkthrough of the project
 Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
