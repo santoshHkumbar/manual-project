@@ -47,9 +47,13 @@ https://drive.google.com/drive/folders/1_sg4TYR2Hg_aVqwgph_iRYUg5Ja-DJ_y?usp=sha
 List out the key features of your application.
 
 -Login Functionality.
+
 -Search Functionality.
+
 -Add to cart Functionality.
+
 -Logout Functionality
+
 
 
 
