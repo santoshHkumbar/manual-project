@@ -23,14 +23,11 @@ this project automatic the cypress tool ,work on manaual testing parts
 ![image](https://github.com/santoshHkumbar/manual-project/assets/172264565/3cec95c8-e8a8-4a3b-aee4-49b5cb864a21)
 
 
-## Project Type
-Frontend link website: https://66405eedbcb7ce8c1a800ea6--timely-froyo-5c39a1.netlify.app/
+## Application Under Test
+website  link : https://66405eedbcb7ce8c1a800ea6--timely-froyo-5c39a1.netlify.app/
+Application testing :-Manual AND Automation Testing
 
 
-## Deplolyed App
-
-
-Manual AND Automation :application testing
 
 ## Directory Structure
 Cypress-Cypress-Intergation/ ├─ testing/ ├─ bigbusket-project
