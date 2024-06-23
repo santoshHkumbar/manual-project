@@ -33,6 +33,10 @@ Application testing :-Manual AND Automation Testing
 ## Directory Structure
 Cypress-Cypress-Intergation/ ├─ testing/ ├─ bigbusket-project
 
+##Screenshots Application
+![image](https://github.com/santoshHkumbar/manual-project/assets/172264565/ab04206b-4c16-4014-bb54-bd4b714ac283)
+
+
 ## Video Walkthrough of the project
 Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
 
