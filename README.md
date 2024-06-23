@@ -25,6 +25,7 @@ this project automatic the cypress tool ,work on manaual testing parts
 
 ## Application Under Test
 website  link : https://66405eedbcb7ce8c1a800ea6--timely-froyo-5c39a1.netlify.app/
+
 Application testing :-Manual AND Automation Testing
 
 
